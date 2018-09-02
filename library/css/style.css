@@ -1,0 +1,40 @@
+.body_page{
+	background-color: #0d47a1;
+	color: white;
+    font-family: 'Lato', sans-serif;
+}
+
+.h1-name{
+	font-size: 3em;
+}
+
+.h5_link{
+	text-align: center;
+	font-size: 2em;
+}
+
+.link{
+	color: white;
+}
+
+.link:hover{
+	color: white;
+	text-decoration: none;
+}
+
+.deskrip_about{
+	font-size: 1.5em;
+	text-align: center;
+}
+
+.skill{
+	font-size: 2.7em;
+}
+
+.card-text{
+	color: black
+}
+
+.card-title{
+	color: black;
+}
